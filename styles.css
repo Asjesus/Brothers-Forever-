@@ -77,12 +77,12 @@ header p {
 }
 
 .banner{
-    height: 100vw;
+    height: 70vw;
 }
 
 footer{
     background-color: black;
-    height: 20vw;
+    height: 15vw;
     display: flex;
     justify-content:space-around;
     align-items: center;
@@ -93,3 +93,13 @@ footer img{
     height: 10vw;
 }
 
+.banner{
+    background-image: url(./img/caveira\ 1.svg);
+    background-repeat: no-repeat;
+}
+
+.banner img{
+    width: 100vw;
+    height: 100vw;
+}
+ 
