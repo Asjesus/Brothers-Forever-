@@ -76,8 +76,20 @@ header p {
     padding-top: 1vw;
 }
 
-footer{
-    background-color: black;
-    width: 100%;
+.banner{
     height: 100vw;
 }
+
+footer{
+    background-color: black;
+    height: 20vw;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+footer img{
+    height: 10vw;
+    height: 10vw;
+}
+
