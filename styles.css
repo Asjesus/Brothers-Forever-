@@ -93,13 +93,18 @@ footer img{
     height: 10vw;
 }
 
-.banner{
-    background-image: url(./img/caveira\ 1.svg);
-    background-repeat: no-repeat;
+.banner-geral{
+    width: 100vw;
+    height: 80vw;
+    padding: none;
+    background-color: rgb(0, 0, 0);
 }
 
-.banner img{
+
+.banner-geral img{
     width: 100vw;
-    height: 100vw;
+    height: 80vw;
+    padding: none;
 }
  
+
