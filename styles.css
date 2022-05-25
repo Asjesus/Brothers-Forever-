@@ -54,6 +54,17 @@ header p {
     justify-content: center;
     align-items: center;
 }
+
+.menu-bandas{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.bandas img{
+    height: 10vw;
+    padding-left: 35vw;
+    padding-bottom: 1vw;
+}
 .bandas p {
     height: 15vw;
     font-size: 10vw;
