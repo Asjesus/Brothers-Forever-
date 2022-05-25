@@ -11,14 +11,14 @@
 
 header{
     background-color: black;
-    height: 7vw;
+    height: 15vw;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .titulo{
-    height: 7vw;
+    height: 15vw;
     width: 14vw;
     display: flex;
     justify-content: center;
@@ -26,8 +26,8 @@ header{
 
 }
 header p {
-    height: 7vw;
-    font-size: 5vw;
+    height: 15vw;
+    font-size: 10vw;
     color: white;
     text-transform: uppercase;
     font-weight: 900;
@@ -43,20 +43,20 @@ header p {
 }
  
 .bf img {
-    width: 20vw;
-    height: 20vw;
+    width: 60vw;
+    height: 60vw;
 }
 
 .bandas{
     background-color: black;
-    height: 7vw;
+    height: 15vw;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .bandas p {
-    height: 7vw;
-    font-size: 5vw;
+    height: 15vw;
+    font-size: 10vw;
     color: white;
     text-transform: uppercase;
     font-weight: 900;
