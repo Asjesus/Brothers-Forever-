@@ -11,7 +11,6 @@ header{
     position:fixed;
     
 }
-
 .bandas{
     height: 15vw;
     width: 100vw;
@@ -22,7 +21,8 @@ header{
 
 .bandas img{
     height: 10vw;
-    width: 10vw;  
+    width: 10vw; 
+    padding-top: 1vw;
 }
 
 .bandas p{
@@ -34,6 +34,7 @@ header{
     display: flex;
     padding-top: 1vw;
     width: 100vw;
+    padding-left: 4vw;
 }
 
 .menu-bandas{
@@ -60,3 +61,4 @@ header{
     height: 100vw;
     background-color: black;
 }
+
