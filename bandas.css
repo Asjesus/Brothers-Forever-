@@ -21,8 +21,9 @@ header{
 
 .bandas img{
     height: 10vw;
-    width: 10vw; 
-    padding-top: 1vw;
+    width: 10vw;
+    padding-bottom: 1.5vw; 
+   
 }
 
 .bandas p{
@@ -62,3 +63,6 @@ header{
     background-color: black;
 }
 
+body{
+    background-color: black;
+}
