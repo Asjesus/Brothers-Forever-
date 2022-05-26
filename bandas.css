@@ -33,6 +33,7 @@ header{
     font-weight: 900;
     display: flex;
     padding-top: 1vw;
+    width: 100vw;
 }
 
 .menu-bandas{
@@ -50,10 +51,12 @@ header{
     text-transform: uppercase;
     text-decoration: none;
     font-weight: 900;
+    height: 15vw;
     
 }
 
 .menu-geral{
     padding-top: 15vw;
     height: 100vw;
+    background-color: black;
 }
