@@ -8,13 +8,24 @@
 header{
     background-color: black;
     height: 15vw;
+    position:fixed;
+    
 }
 
 .bandas{
     height: 15vw;
+    width: 90vw;
     display: flex;
-    justify-content: center;
+    justify-content:space-around;
     align-items: center;
+}
+
+.bandas img{
+    height: 10vw;
+    width: 10vw;
+   
+    
+    
 }
 
 .bandas p{
@@ -25,7 +36,6 @@ header{
     font-weight: 900;
     display: flex;
     padding-top: 1vw;
-    position:fixed;
 }
 
 .menu-bandas{
