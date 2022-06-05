@@ -41,11 +41,18 @@ header p {
    display: flex;
    justify-content: center;
    align-items: center;
+   border-radius: 8vw;
 }
  
 .bf img {
     width: 60vw;
     height: 60vw;
+    border-radius: 8vw;
+}
+audio{
+    width: 30vw;
+    height: 10vw;
+    
 }
 
 .bandas{
