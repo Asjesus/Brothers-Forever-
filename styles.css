@@ -87,6 +87,15 @@ footer{
     justify-content:space-around;
     align-items: center;
 }
+footer p{
+    height: 4vw;
+    font-size: 5vw;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: flex;
+
+}
 
 footer img{
     height: 10vw;
